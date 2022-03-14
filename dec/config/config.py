@@ -1,6 +1,6 @@
 config = {
-  "aws_access_key": "AKIAVOMB5SLUEJ2SGR75",
-  "aws_secret_access_key": "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",
+  "aws_access_key": "",
+  "aws_secret_access_key": "",
   "aws_credentials_id": "aws_credentials",
   "redshift_arn": "arn:aws:iam::374471496424:role/dwhRole",
   "redshift_db": "nbadb",
@@ -19,7 +19,5 @@ config = {
   "skip_stage_4": False,
   "skip_stage_5": False,
   "skip_stage_6": False,
-  "skip_stage_7": False,
-  "skip_stage_8": False,
-  "skip_stage_9": False
+  "skip_stage_7": False
 }
